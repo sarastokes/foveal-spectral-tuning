@@ -1,0 +1,22 @@
+## MATLAB
+*.asv
+*.m~
+*.mldatx
+
+## LaTeX
+*.aux
+*.fls 
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.log
+*.out
+
+## Dev
+*.DS_Store
+*.vscode
+old/
+
+## Pre-publication folders
+data/
+figures/
